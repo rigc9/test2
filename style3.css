@@ -227,8 +227,8 @@ li {
 
     position: relative;
     padding: 0.15rem 0.3rem;
-    text-align: left;
-    margin: 0px 5px 0px -70px;
+    text-align: center;
+    margin: 0px 20px 0px 0px;
 }
 
 .tut::before,
